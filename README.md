@@ -3,4 +3,4 @@ created example of android application with android studio, that is purpose for 
 
 # created example of view
 1. ListView
-2. OptionMenu (i gonna create menu)
+2. OptionMenu
