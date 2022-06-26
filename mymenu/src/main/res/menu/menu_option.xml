@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_option_item_1"
+        android:title="메뉴1">
+        <menu>
+            <item
+                android:id="@+id/sub_1_in_item_1"
+                android:title="메뉴1-1" />
+            <item
+                android:id="@+id/sub_2_in_item_1"
+                android:title="메뉴1-2" />
+            <item
+                android:id="@+id/sub_3_in_item_1"
+                android:title="메뉴1-3" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_option_item_2"
+        android:title="메뉴2" />
+    <item
+        android:id="@+id/menu_option_item_3"
+        android:title="메뉴3" />
+</menu>
